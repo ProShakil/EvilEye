@@ -1,5 +1,3 @@
-<p align="center"><img width=600 alt="EvilnoVNC" src="https://github.com/JoelGMSec/EvilnoVNC/blob/main/EvilnoVNC.png"></p>
-
 # EvilnoVNC
 **EvilnoVNC** is a Ready to go Phishing Platform. 
 
@@ -17,7 +15,7 @@ In addition, this tool allows us to see in real time all of the victim's actions
 It's recommended to clone the complete repository or download the zip file.\
 Additionally, it's necessary to build Docker manually. You can do this by running the following commands:
 ```
-git clone https://github.com/JoelGMSec/EvilnoVNC
+git clone https://github.com/ProShakil/EvilEye
 cd EvilnoVNC ; sudo chown -R 103 Downloads
 sudo docker build -t joelgmsec/evilnovnc .
 ```
